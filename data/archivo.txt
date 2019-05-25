@@ -1,0 +1,28 @@
+$Primer Tema
+Estadistica: Ciencia que recoge,organiza, presenta analiza e interpreta datos con el fin de tomar la decision mas acertada\nExisten 2 tipos de Estadistica:\nDescriptiva: Metodo para organizar, resumir y presentar datos de manera informativa\nInferencial: Metodos empleados para determinar una propiedad de una poblacion con base en la informacion de una muestra de ella.\nPoblacion: Conjunto de individuos u objetos de interes o medidas que se obtienen a partir de todo el conjunto\nMuestra: Porcion de la poblacion que presenta un interes
+$Segundo Tema
+Tablas de frecuencias: Agrupacion de datos cualitativos en clases mutuamente excluyentes que muestra el numero de observaciones en cada clase, existen varias maneras de representar dichos datos entre ellas estan la grafica de barras, de pastel y como se menciona la tabla de frecuencias es para datos cualitativos mientras que par los ddatos cualitativos se utiliza la distribucion de frecuencias para ello se utilizan los histogramas, los poligonos de frecuencia
+$tercerTema 
+Media poblacional esta dada por la formula:
+$insertar formula
+entonces cualquier caracteristica medible recibe el nombre de parametro, entonces, la media poblacional es un parametro
+$Insertar Formula de Media de una muestra
+$Insertar media ponderada
+La media ponderada tiene una serie de caracteristicas especialesya que se presenta cuando existen varias observaciones con el mismo valor
+Tip: Para recordar caracteristica de una muestra recibe el nombre de estadistico
+$Va la mediana (Este capitulo es largo D:)
+Mediana: Valor intermedio de los datos 
+Moda: Es el valor que mas veces aparece
+Media geometrica: Esta dada por la formula
+$Insertar formula
+Medidas de dispersion: 
+1. Rango 
+esta dado por la diferencia entre (Valor maximo-valor minimo)
+2.Desviacion media: Esla media de los valores absolutos de las dedsviaciones con respecto a la media aritmetica y esta dada por la formula
+$Insertar desviacion
+Varianza y desviacion estandar
+Varianza: Media aritmetica de las desviaciones de la media elevadas al cuadrado
+Desviacion estandar: Raiz cuadrada de la varianza
+$Insertar varianza 
+
+
