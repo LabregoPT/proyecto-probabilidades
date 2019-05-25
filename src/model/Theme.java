@@ -19,4 +19,10 @@ public class Theme {
 	public void setContent(String c) {
 		content = c;
 	}
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return title+content;
+	}
 }

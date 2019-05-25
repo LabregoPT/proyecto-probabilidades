@@ -1,0 +1,11 @@
+Una tabla de frecuencias es una agrupación de datos cualitativos en clases mutuamente excluyentes, que muestra el número de observaciones que hay en cada clase.
+Una tabla de frecuencias relativas muestra la fracción del número de frecuencias en cada clase.
+Una gráfica de barras es una representación de una tabla de frecuencias.
+Una gráfica de pastel muestra la parte que cada clase representa del número total de frecuencias.
+Una distribución de frecuencias es una agrupación de datos en clases mutuamente excluyentes que muestra el número de observaciones que hay en cada clase.
+Una tabla de frecuencias es una agrupación de datos cualitativos en clases mutuamente excluyentes, que muestra el número de observaciones que hay en cada clase.
+Una tabla de frecuencias relativas muestra la fracción del número de frecuencias en cada clase.
+Una gráfica de barras es una representación de una tabla de frecuencias.
+Una gráfica de pastel muestra la parte que cada clase representa del número total de frecuencias.
+Una distribución de frecuencias es una agrupación de datos en clases mutuamente excluyentes que muestra el número de observaciones que hay en cada clase.
+	

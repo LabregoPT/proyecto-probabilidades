@@ -47,6 +47,7 @@ public class ProbaProjectController {
 			}
 		});
 		textTXT.wrappingWidthProperty().bind(calcGP.widthProperty());
+		calcGP.setMinSize(0, 0);
 	}
 	
 	public void changeTopic() {

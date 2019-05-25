@@ -1,0 +1,28 @@
+Un diagrama de puntos muestra el rango de valores sobre el eje horizontal, y se coloca un punto por encima de cada uno de los valores.
+Un diagrama de puntos muestra los detalles de cada observación. Es de utilidad para comparar dos o más conjuntos de datos.
+
+Un diagrama de tallo y hojas constituye una alternativa al histograma. El dígito principal es el tallo y el dígito secundario, la hoja. Las ventajas de un diagrama de tallo y hojas sobre un histograma incluyen las siguientes:
+	La identidad de cada observación no se pierde.
+	Los dígitos proporcionan una representación de la distribución.
+	También se exhiben las frecuencias acumulativas.
+	Las medidas de localización describen la forma de un conjunto de observaciones.
+
+Los cuartiles dividen un conjunto de observaciones en cuatro partes iguales.
+	1. Veinticinco por ciento de las observaciones son menores que el primer cuartil, 50% son menores que el segundo cuartil y 75% son menores que el tercer cuartil.
+	2. El rango intercuartil es la diferencia entre el tercer y el primer cuartiles.
+
+Los deciles dividen a un conjunto de observaciones en diez partes iguales y los percentiles en 100 partes iguales.
+
+Un diagrama de caja es una representación gráfica de un conjunto de datos.
+	1. Se traza una caja que encierra las regiones entre el primer y tercer cuartiles.
+	2. Se dibuja una línea en el interior de la caja en el valor intermedio.
+	3. Los segmentos punteados se prolongan a partir del tercer cuartil hasta el valor más alto con el fin de mostrar el 25% más alto y a partir del primer cuartil hasta el valor más bajo con el fin de mostrar el 25% más bajo de los valores.
+Un diagrama de caja se basa en cinco estadísticos: los valores máximo y mínimo, el primer y tercer cuartiles y la mediana.
+
+El coeficiente de sesgo es una medida de la simetría de una distribución. Existen dos fórmulas para determinar el coeficiente de sesgo. La fórmula que elaboró Pearson.
+
+Un diagrama de dispersión es una herramienta gráfica para representar la relación entre dos variables. Ambas variables se miden con escalas de intervalo o de razón.
+Si la propagación de los puntos se dirige de la parte inferior izquierda a la parte superior derecha, las variables que se estudian se encuentran directamente relacionadas.
+Si la dispersión de los puntos se orienta de la parte superior izquierda a la inferior derecha, las variables se encuentran relacionadas inversa o negativamente.
+
+Una tabla de contingencia se utiliza para clasificar observaciones de escala nominal de acuerdo con dos características.

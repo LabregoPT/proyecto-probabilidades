@@ -12,7 +12,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ui.ProbaProjectController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="463.0" prefWidth="671.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ui.ProbaProjectController">
    <padding>
       <Insets bottom="14.0" left="14.0" right="14.0" top="14.0" />
    </padding>
@@ -20,23 +20,20 @@
       <ComboBox fx:id="themeCB" prefWidth="150.0" promptText="Tema" BorderPane.alignment="TOP_CENTER" />
    </left>
    <center>
-      <VBox prefHeight="200.0" prefWidth="100.0" spacing="4.0" BorderPane.alignment="CENTER">
-         <BorderPane.margin>
-            <Insets left="8.0" />
-         </BorderPane.margin>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
          <children>
             <Label fx:id="titleLabel" text="Título">
                <font>
                   <Font name="Arial Bold" size="26.0" />
                </font>
             </Label>
-            <Line endX="100.0" startX="-100.0" stroke="#0000007b" />
+            <Line endX="164.5" startX="-100.0" stroke="#0000007b" />
             <Text fx:id="textTXT" strokeType="OUTSIDE" strokeWidth="0.0" text="Texto">
                <font>
                   <Font name="Arial Narrow" size="16.0" />
                </font>
             </Text>
-            <GridPane fx:id="calcGP" disable="true">
+            <GridPane fx:id="calcGP" disable="true" prefHeight="0.0" prefWidth="0.0">
               <columnConstraints>
                 <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
                 <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -48,6 +45,9 @@
               </rowConstraints>
             </GridPane>
          </children>
+         <BorderPane.margin>
+            <Insets left="8.0" />
+         </BorderPane.margin>
       </VBox>
    </center>
 </BorderPane>

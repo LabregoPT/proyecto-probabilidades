@@ -1,0 +1,9 @@
+La estadística es la ciencia que recoge, organiza, presenta, analiza e interpreta datos con el fin de facilitar la toma de decisiones más eficaces.
+Existen dos clases de estadística:
+	La estadística descriptiva que consiste en un conjunto de procedimientos para organizar y resumir datos.
+	La estadística inferencial implica tomar una muestra de una población y llevar a cabo cálculos relativos a ésta sobre la base de los resultados de la muestra.
+Una población es un conjunto de individuos u objetos de interés o las medidas que se obtienen de todos los individuos u objetos de interés.
+Una muestra es una parte de la población.
+Existen dos tipos de variables:
+	A. Una variable cualitativa es de naturaleza no numérica
+	B. Una variable cuantitativa la cual es de naturaleza numerica

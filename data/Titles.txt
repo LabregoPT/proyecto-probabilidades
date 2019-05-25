@@ -1,0 +1,7 @@
+1.¿Que es la estadistica
+2.Descripcion de datos: Tablas, distribuciones y graficas
+3.Descripcion de datos: Medidas numericas
+4.Descripcion de datos: Presentacion y analisis
+5.Conceptos de probabilidad
+6.Distribuciones discretas de probabilidad
+7.Distribuciones continuas de probabilidad

@@ -1,0 +1,14 @@
+Una medida de ubicación es un valor que sirve para describir el centro de un conjunto de datos.
+La media aritmética es la medida de ubicación que más se informa.
+Se calcula mediante la suma de los valores de las observaciones, que luego se divide entre el número total de observaciones.
+Parametro:Caracteristicas de una poblacion
+Estadistico: Caracteristica de una muestra
+Mediana:Punto medio entre los valores, una vez ordenados.
+Moda:Valor que se repite mas seguido
+Rango: Dado por la formula (valor maximo - valor minimo)
+Varianza: Es la variacion entre todos los valores observados
+Desviacion estandar: Indica cuanto se desvian los dantos de la mediana. Dado por la formula sqroot(varianza) 
+Interpretacion de la desviacion estandar:
+	Teorema de Chebyshev: En cualquier conjunto de observaciones (muestra o población), la proporción de valores que se encuentran a k desviaciones estándares de la media es de por lo menos 1  1/k2, siendo k cualquier constante mayor que 1.
+	Regla empirica: En cualquier distribución de frecuencias simétrica con forma de campana, cerca de 68% de las observaciones se encontrarán entre + y - 1 desviación estándar de la media; cerca de 95% de las observaciones estarán entre + y - 2 desviaciones estándares de la media y, casi todas estarán entre + y - 3 desviaciones estándares de la media.
+

@@ -27,21 +27,25 @@ public class Model {
 		return toR;
 	}
 	
-	public void generateDummyThemes() throws IOException{
-		int i = 0;
-		BufferedReader fr = new BufferedReader(new FileReader(new File("data/archivo.txt")));
-		while(i<10) {
-			String line = fr.readLine();
+	public void generateDummyThemes()throws IOException {
+		int i = 1;
+		while(i < 8) {
+			BufferedReader titleReader = new BufferedReader(new FileReader(new File("data/Tema " + i +"/Titulo.txt")));
+			BufferedReader contentReader = new BufferedReader(new FileReader(new File("data/Tema " + i +"/Tema.txt")));
 			Theme t = new Theme();
-			if(line.startsWith("$")) {
-				t.setTitle(line);
-			}else {
-				t.setContent(line);
-				System.out.println(line);
+			String titulo = titleReader.readLine();
+			String content = "";
+			String line = contentReader.readLine();
+			while(line != null){
+				content += line + "\n";
+				line = contentReader.readLine();
 			}
+			t.setTitle(titulo);
+			t.setContent(content);
 			themes.add(t);
+			titleReader.close();
+			contentReader.close();
 			i++;
 		}
-		fr.close();
 	}
 }
