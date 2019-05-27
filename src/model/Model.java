@@ -27,6 +27,14 @@ public class Model {
 		return toR;
 	}
 	
+	public ArrayList<String> getImages(){
+		ArrayList<String> toR = new ArrayList<String>();
+		for(Theme t : themes) {
+			toR.add(t.getImage());
+		}
+		return toR;
+	}
+	
 	public void generateDummyThemes()throws IOException {
 		int i = 1;
 		while(i < 8) {
@@ -42,6 +50,7 @@ public class Model {
 			}
 			t.setTitle(titulo);
 			t.setContent(content);
+			t.setImage("images/Tema " + i +"/Imagen.jpg");
 			themes.add(t);
 			titleReader.close();
 			contentReader.close();
